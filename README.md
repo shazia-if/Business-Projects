@@ -15,6 +15,7 @@ A company is analyzing the sales performance of its 20 products over the year 20
 5. Ultimately, the company seeks to optimize its marketing strategies by understanding whether targeting a broader demographic is more effective than focusing on specific customer segments, particularly in relation to age and gender.
 # Dashboards
 
+![image](https://github.com/user-attachments/assets/ed2eb62b-0c95-44ab-8c42-1bd99c7d889e)
 
-![image](https://github.com/user-attachments/assets/b1808fff-4f2e-4d39-9ada-a333fc45d949)
+
 ![image](https://github.com/user-attachments/assets/39c95d1d-620c-4b23-b0bd-3ace5e1c881f)
