@@ -1,7 +1,6 @@
-# Business-Projects
-Projects Based on SQL data analysis and PowerBI / Tableau visualizations as well as presentations and dashboard building.
-
 # Title: Sales Insights with Customer Demographics
+
+This is a business analysis poject which includes working with data in SQL, exploratory data analysis and PowerBI visualizations as well as presentations and dashboard building.
 
 # Problem Statement
 A company is analyzing the sales performance of its 20 products over the year 2023, with a particular interest in understanding customer demographics and the impact of targeted marketing on sales. The company aims to cater to a wide range of customers but is especially focused on increasing sales among female customers. Additionally, they are investing in several products that are not gender-specific, aiming to appeal to a broader audience.
@@ -13,6 +12,8 @@ A company is analyzing the sales performance of its 20 products over the year 20
 3. Does targeting wider age groups with certain products yield better results compared to focusing on specific demographics, especially when marketing on social media?
 4. Are there particular products that perform better with broader or specific age group targets? How does this align with the company’s social media campaigns?
 5. Ultimately, the company seeks to optimize its marketing strategies by understanding whether targeting a broader demographic is more effective than focusing on specific customer segments, particularly in relation to age and gender.
+
+
 # Dashboards
 
 ![image](https://github.com/user-attachments/assets/ed2eb62b-0c95-44ab-8c42-1bd99c7d889e)
